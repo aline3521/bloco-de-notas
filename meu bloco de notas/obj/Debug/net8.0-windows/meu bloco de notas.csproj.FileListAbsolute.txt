@@ -1,0 +1,16 @@
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\bin\Debug\net8.0-windows\meu bloco de notas.exe
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\bin\Debug\net8.0-windows\meu bloco de notas.deps.json
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\bin\Debug\net8.0-windows\meu bloco de notas.runtimeconfig.json
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\bin\Debug\net8.0-windows\meu bloco de notas.dll
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\bin\Debug\net8.0-windows\meu bloco de notas.pdb
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\obj\Debug\net8.0-windows\meu_bloco_de_notas.Form1.resources
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\obj\Debug\net8.0-windows\meu bloco de notas.csproj.GenerateResource.cache
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\obj\Debug\net8.0-windows\meu bloco de notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\obj\Debug\net8.0-windows\meu bloco de notas.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\obj\Debug\net8.0-windows\meu bloco de notas.AssemblyInfo.cs
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\obj\Debug\net8.0-windows\meu bloco de notas.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\obj\Debug\net8.0-windows\meu bloco de notas.dll
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\obj\Debug\net8.0-windows\refint\meu bloco de notas.dll
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\obj\Debug\net8.0-windows\meu bloco de notas.pdb
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\obj\Debug\net8.0-windows\meu bloco de notas.genruntimeconfig.cache
+C:\Users\aluno.cad\source\repos\meu bloco de notas\meu bloco de notas\obj\Debug\net8.0-windows\ref\meu bloco de notas.dll
